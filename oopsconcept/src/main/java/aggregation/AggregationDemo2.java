@@ -2,7 +2,7 @@ package aggregation;
 
 public class AggregationDemo2 {
 	int x,y;
-	AggregationDemo1 ag;  //entity reference 
+	AggregationDemo1 ag;  //entity reference aggregation
 	public void display(int x,int y,AggregationDemo1 ag) {
 		this.x=x;
 		this.y=y;
